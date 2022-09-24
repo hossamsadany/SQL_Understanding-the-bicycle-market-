@@ -1,5 +1,5 @@
 # SQL_Understanding-the-bicycle-market-
-You work for a chain of bicycle stores. Your new team leader comes from a different industry and wants your help learning about the bicycle market. Specifically, they need to understand better the brands and categories for sale at your stores.
+Working for a chain of bicycle stores. The new team leader comes from a different industry and wants help learning about the bicycle market. Specifically, they need to understand better the brands and categories for sale at your stores.
 ![Bicycle](https://user-images.githubusercontent.com/97473553/192090697-8b2e1c2d-9664-4a26-bfd3-0f44d0994376.jpg)
 
 ## 💾 The data 
