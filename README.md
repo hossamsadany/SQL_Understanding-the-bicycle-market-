@@ -1,5 +1,11 @@
 # SQL_Understanding-the-bicycle-market-
-Working for a chain of bicycle stores. The new team leader comes from a different industry and wants help learning about the bicycle market. Specifically, they need to understand better the brands and categories for sale at your stores.
+- As part of a bicycle store chain, collaborated with the new team leader to provide insights into the bicycle market and enhance their understanding of brands and categories sold at the stores.
+- Leveraged SQL to analyze the store's database, extract relevant information, and perform comprehensive market research.
+Conducted queries and data analysis to identify popular brands, assess market trends, and understand sales distribution across different categories.
+- Generated informative reports and visualizations to present findings and help the team leader make informed decisions regarding inventory management and marketing strategies.
+- Contributed to the team's understanding of customer preferences, allowing for targeted product offerings and improved customer satisfaction.
+- This project demonstrates proficiency in SQL, data analysis, and market research, showcasing the ability to leverage data to provide valuable insights for business decision-making. market. Specifically, they need to understand better the brands and categories for sale at your stores.
+  
 ![Bicycle](https://user-images.githubusercontent.com/97473553/192090697-8b2e1c2d-9664-4a26-bfd3-0f44d0994376.jpg)
 
 ## 💾 The data 
